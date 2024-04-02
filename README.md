@@ -20,6 +20,10 @@ This commands includes:
 
 6.Other IP Commands e.g. show ip route etc.
 ## Program:
+```
+Name:Haridharshini.S
+Register Number:212221230033
+```
 ### PING COMMAND
 #### CLIENT
 ```
